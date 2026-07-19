@@ -1,0 +1,74 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# ==========================
+# Environment Variables
+# ==========================
+.env
+.env.*
+
+# ==========================
+# IDE
+# ==========================
+.vscode/
+.idea/
+
+# ==========================
+# OS Files
+# ==========================
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Python Tooling
+# ==========================
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.cache/
+
+# ==========================
+# Build
+# ==========================
+build/
+dist/
+*.egg-info/
+
+# ==========================
+# Logs
+# ==========================
+*.log
+
+# ==========================
+# Runtime Generated Files
+# ==========================
+generated/*
+!generated/.gitkeep
+
+uploads/*
+!uploads/.gitkeep
+
+metadata/*
+!metadata/.gitkeep
+
+# ==========================
+# Jupyter
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# Misc
+# ==========================
+*.sqlite3
