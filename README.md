@@ -236,8 +236,7 @@ uvicorn app.main:app --reload
 
 
 ## Future Improvements
-
-- Batch generation
+- Background Removal
 - User authentication
 - Docker support
 - Additional AI providers
