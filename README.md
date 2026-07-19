@@ -119,6 +119,10 @@ AdGen is a FastAPI-based backend application that generates realistic marketing 
             }}
             """
 ```
+Example Prompt gemerated by Gemini
+
+<img width="904" height="613" alt="Screenshot 2026-07-19 091821" src="https://github.com/user-attachments/assets/cd7f25ae-e886-405b-a5c6-3be971db0ce5" />
+
   
 - Scene generation using FLUX.1 Kontext
 
